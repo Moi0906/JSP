@@ -19,6 +19,6 @@
         </li>
         <li>JSP</li>
     </ol>
-    <img src="images/jsp-logo.webp" alt="Logo JSP" />
+    <img src="https://icones8.fr/icon/XQDIp6wBPhVF/jsp" alt="Logo JSP" />
 </body>
 </html>
