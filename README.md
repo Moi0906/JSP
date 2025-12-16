@@ -2,22 +2,22 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="JSP pas non plus">
+    <meta name="description" content="Tout sur JSP">
     <title>JSP</title>
 </head>
 <body>
     <h1>JSP</h1>
     <ol>
-        <li>Mon premier élément</li>
-        <li>Mon second élément</li>
-        <li>Mon troisième élément
+        <li>JSP</li>
+        <li>JSP</li>
+        <li>JSP
             <ul>
-                <li>Mon premier sous-élément</li>
-                <li>Mon second sous-élément</li>
-                <li>Mon troisième sous-élément</li>
+                <li>JSP</li>
+                <li>JSP</li>
+                <li>JSP</li>
             </ul>
         </li>
-        <li>Mon quatrième élément</li>
+        <li>JSP</li>
     </ol>
 
     <!-- Image de JSP -->
